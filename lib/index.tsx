@@ -13,6 +13,7 @@ export interface MultiselectValue {
 
 export interface MultiselectProps {
     className?: string;
+    tabIndex?: number;
     data: MultiselectValue[];
     onChange: (v: MultiselectValue[]) => void;
     buttonText?: ((options: any, select: any) => string) | string;

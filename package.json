@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-multiselect-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "react-bootstrap-multiselect adapted for TypeScript",
   "directories": {
     "lib": "lib"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/urakozz/react-bootstrap-multiselect-ts.git"
+    "url": "https://github.com/urakozz/react-bootstrap-multiselect-ts.git"
   },
   "keywords": [
     "typescript",

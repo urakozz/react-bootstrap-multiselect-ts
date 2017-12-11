@@ -2,7 +2,6 @@
   "compilerOptions": {
     "outDir": "build",
     "module": "commonjs",
-    "declaration": true,
     "target": "es5",
     "lib": ["es6", "dom"],
     "sourceMap": true,

@@ -1,6 +1,6 @@
 {
   "name": "react-bootstrap-multiselect-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-bootstrap-multiselect adapted for TypeScript",
   "directories": {
     "lib": "lib"

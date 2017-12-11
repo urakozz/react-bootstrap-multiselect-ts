@@ -1,0 +1,38 @@
+{
+  "name": "react-bootstrap-multiselect-ts",
+  "version": "1.0.0",
+  "description": "react-bootstrap-multiselect adapted for TypeScript",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "rm -rf dist && tsc -p ./ --outDir dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urakozz/react-bootstrap-multiselect-ts.git"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "bootstrap",
+    "multiselect",
+    "ts"
+  ],
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "Yury Kozyrev",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^8.0.57",
+    "@types/react": "^16.0.28",
+    "react": "^16.0.0"
+  },
+  "dependencies": {
+    "react-bootstrap-multiselect": "^2.4.1"
+  },
+  "peerDependencies": {
+    "react": ">=0.14.0"
+  }
+}

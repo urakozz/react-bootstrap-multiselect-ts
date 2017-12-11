@@ -1,5 +1,13 @@
 # react-bootstrap-multiselect-ts
 
+A multiselect component for react (with bootstrap). This is a TypeScript wrapper on top of: https://github.com/skratchdot/react-bootstrap-multiselect
+
+## Installation
+
+```bash
+npm i -S react-bootstrap-multiselect-ts
+```
+
 ## Usage
 
 ```typescript jsx

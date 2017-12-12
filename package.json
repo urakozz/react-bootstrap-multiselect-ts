@@ -7,7 +7,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "rm -rf dist && tsc -p ./ --outDir dist/"
+    "prepublishOnly": "rm -rf dist && tsc -p ./ --outDir dist/"
   },
   "repository": {
     "type": "git",

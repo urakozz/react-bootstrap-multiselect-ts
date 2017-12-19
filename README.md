@@ -1,6 +1,6 @@
 # react-bootstrap-multiselect-ts
 [![NPM version](https://badge.fury.io/js/react-bootstrap-multiselect-ts.svg)](http://badge.fury.io/js/react-bootstrap-multiselect-ts)
-[![Dependency Status](https://david-dm.org/skratchdot/react-bootstrap-multiselect-ts.svg)](https://david-dm.org/skratchdot/react-bootstrap-multiselect-ts)
+[![Dependency Status](https://david-dm.org/urakozz/react-bootstrap-multiselect-ts.svg)](https://david-dm.org/urakozz/react-bootstrap-multiselect-ts)
 [![devDependency Status](https://david-dm.org/urakozz/react-bootstrap-multiselect-ts/dev-status.svg)](https://david-dm.org/urakozz/react-bootstrap-multiselect-ts#info=devDependencies)
 
 A multiselect component for react (with bootstrap). This is a TypeScript wrapper on top of: https://github.com/skratchdot/react-bootstrap-multiselect
